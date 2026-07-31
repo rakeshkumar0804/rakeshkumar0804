@@ -68,7 +68,7 @@ Full-stack employee leave management system with role-based authentication (Admi
   <a href="https://developer-portfolio-nu-rouge.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel" />
   </a>
-</p>## Hi there 👋
+</p>## 
 
 <!--
 **rakeshkumar0804/rakeshkumar0804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
