@@ -200,7 +200,7 @@ Built an **Internal Employee Management System** for internal organizational use
 
 </div>
 
-> _Requires the [snake generator GitHub Action](https://github.com/Platane/snk) set up in a repo named `rakeshkumar0804/rakeshkumar0804`._
+
 
 ---
 
