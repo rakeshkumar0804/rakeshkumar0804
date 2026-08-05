@@ -7,13 +7,14 @@
 <br/>
 
 ![B.Tech CSE](https://img.shields.io/badge/B.Tech-CSE%20%2F%20Parul%20University-6D28D9?style=flat-square&logo=google-scholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Gurugram%2C%20India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
+![University](https://img.shields.io/badge/University-Vadodara%2C%20Gujarat-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Based%20In-Gurugram%2C%20India-7C3AED?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://developer-portfolio-nu-rouge.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakesh-kumar-520754246)
-[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakeshchauhan6651@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-24243E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakeshkumar0804)
 
 <br/>
@@ -141,8 +142,7 @@ Built an **Internal Employee Management System** for internal organizational use
 **Udemy**
 ![Cybersecurity](https://img.shields.io/badge/Udemy-Cybersecurity-7C3AED?style=flat-square&logo=udemy&logoColor=white)
 ![Python](https://img.shields.io/badge/Udemy-Python-7C3AED?style=flat-square&logo=python&logoColor=white)
-
-> _Add AWS / Oracle / NPTEL / Cisco badges here if/when you complete those certifications._
+![Full Stack](https://img.shields.io/badge/Udemy-Full%20Stack%20Development-7C3AED?style=flat-square&logo=udemy&logoColor=white)
 
 ---
 
@@ -224,7 +224,7 @@ Open To:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakeshchauhan6651@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakesh-kumar-520754246)
 [![GitHub](https://img.shields.io/badge/GitHub-24243E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakeshkumar0804)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://developer-portfolio-nu-rouge.vercel.app)
