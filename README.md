@@ -163,20 +163,10 @@ Built an **Internal Employee Management System** for internal organizational use
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rakeshkumar0804&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C9C9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshkumar0804&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=rakeshkumar0804&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C9C9" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=rakeshkumar0804&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshkumar0804&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9C9C9" width="49%"/>
-
-</div>
-
----
-
-### 🟣 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rakeshkumar0804&theme=algolia&no-frame=true&margin-w=8&row=1" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rakeshkumar0804&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9C9C9" width="49%"/>
 
 </div>
 
@@ -200,7 +190,7 @@ Built an **Internal Employee Management System** for internal organizational use
 
 </div>
 
-
+> _Requires the [snake generator GitHub Action](https://github.com/Platane/snk) set up in a repo named `rakeshkumar0804/rakeshkumar0804`._
 
 ---
 
