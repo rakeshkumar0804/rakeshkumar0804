@@ -39,21 +39,13 @@ I recently completed an internship at **Codetech IT Solutions**, where I built a
 
 ### 🟣 Tech Stack
 
-**Languages**
-![JavaScript](https://skillicons.dev/icons?i=js) ![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=py) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
+**Languages:** JavaScript (ES6+) · C++ · Python · HTML5 · CSS3
 
-**Frontend**
-![React](https://skillicons.dev/icons?i=react) ![Redux](https://skillicons.dev/icons?i=redux) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+**Frontend:** React.js (Hooks, Component Architecture) · React Router · Axios · Redux · Tailwind CSS · Bootstrap · Responsive UI
 
-**Backend & Databases**
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql)
+**Backend & Databases:** Node.js · Express.js · REST API Design · JWT Authentication · RBAC · bcrypt · MongoDB · Mongoose · MySQL
 
-**Cloud, DevOps & Tooling**
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman) ![Vercel](https://skillicons.dev/icons?i=vercel)
-
-<br/>
-
-**Also working with:** JWT Authentication · RBAC · bcrypt · REST API Design · React Router · Axios · Mongoose · Responsive UI
+**Cloud, DevOps & Tooling:** Git · GitHub · VS Code · Postman · Vercel · Render · npm
 
 **Core CS:** Data Structures & Algorithms · DBMS · Operating Systems · Computer Networks · OOP
 
