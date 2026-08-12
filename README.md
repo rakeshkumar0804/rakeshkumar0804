@@ -51,6 +51,12 @@ I recently completed an internship at **Codetech IT Solutions**, where I built a
 **Cloud, DevOps & Tooling**
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman) ![Vercel](https://skillicons.dev/icons?i=vercel)
 
+**Also Working With**
+`JWT Authentication` `RBAC` `bcrypt` `REST API Design` `React Router` `Axios` `Mongoose` `Responsive UI`
+
+**Core CS Fundamentals**
+`Data Structures & Algorithms` `DBMS` `Operating Systems` `Computer Networks` `OOP`
+
 ---
 
 ### 🟣 Featured Projects
@@ -190,7 +196,7 @@ Built an **Internal Employee Management System** for internal organizational use
 
 </div>
 
-
+> _Requires the [snake generator GitHub Action](https://github.com/Platane/snk) set up in a repo named `rakeshkumar0804/rakeshkumar0804`._
 
 ---
 
