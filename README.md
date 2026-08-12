@@ -52,14 +52,31 @@ I recently completed an internship at **Codetech IT Solutions**, where I built a
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman) ![Vercel](https://skillicons.dev/icons?i=vercel)
 
 **Also Working With**
-`JWT Authentication` `RBAC` `bcrypt` `REST API Design` `React Router` `Axios` `Mongoose` `Responsive UI`
+![JWT](https://img.shields.io/badge/JWT%20Authentication-6D28D9?style=flat-square) ![RBAC](https://img.shields.io/badge/RBAC-6D28D9?style=flat-square) ![bcrypt](https://img.shields.io/badge/bcrypt-6D28D9?style=flat-square) ![REST API](https://img.shields.io/badge/REST%20API%20Design-6D28D9?style=flat-square) ![React Router](https://img.shields.io/badge/React%20Router-4C1D95?style=flat-square) ![Axios](https://img.shields.io/badge/Axios-4C1D95?style=flat-square) ![Mongoose](https://img.shields.io/badge/Mongoose-4C1D95?style=flat-square) ![Responsive UI](https://img.shields.io/badge/Responsive%20UI-4C1D95?style=flat-square)
 
 **Core CS Fundamentals**
-`Data Structures & Algorithms` `DBMS` `Operating Systems` `Computer Networks` `OOP`
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-7C3AED?style=flat-square) ![DBMS](https://img.shields.io/badge/DBMS-7C3AED?style=flat-square) ![OS](https://img.shields.io/badge/Operating%20Systems-7C3AED?style=flat-square) ![CN](https://img.shields.io/badge/Computer%20Networks-7C3AED?style=flat-square) ![OOP](https://img.shields.io/badge/OOP-7C3AED?style=flat-square)
 
 ---
 
 ### 🟣 Featured Projects
+
+<details>
+<summary><b>🏏 Kohli Analytics — Cricket Data Visualization</b></summary>
+<br/>
+
+A data-visualization portfolio piece analyzing Virat Kohli's career using custom-built metrics, with a format switcher across ODI, Test, and T20I, and an animated, interactive UI.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | React 19, TypeScript, D3.js, GSAP |
+| **Core Feature** | Custom metrics — Clutch Index, Pressure Map, Era Engine, Captaincy Myth analysis |
+| **Status** | Deployed on Vercel |
+| **Repository** | [GitHub](https://github.com/rakeshkumar0804) |
+
+Built to demonstrate frontend depth beyond CRUD apps — custom D3.js visualizations, animation with GSAP, and format-aware data modeling across three cricket formats.
+
+</details>
 
 <details>
 <summary><b>🚀 Developer Portfolio Health Checker</b></summary>
