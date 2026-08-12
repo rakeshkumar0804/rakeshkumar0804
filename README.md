@@ -64,7 +64,7 @@ A data-visualization portfolio piece analyzing Virat Kohli's career using custom
 | **Stack** | React 19, TypeScript, D3.js, GSAP |
 | **Core Feature** | Custom metrics — Clutch Index, Pressure Map, Era Engine, Captaincy Myth analysis |
 | **Status** | Deployed on Vercel |
-| **Repository** | [GitHub](https://github.com/rakeshkumar0804) |
+| **Repository** | [GitHub](https://github.com/rakeshkumar0804/kohli-analytics) |
 
 Built to demonstrate frontend depth beyond CRUD apps — custom D3.js visualizations, animation with GSAP, and format-aware data modeling across three cricket formats.
 
@@ -81,7 +81,7 @@ A MERN-based tool that analyzes any public GitHub profile and generates a scored
 | **Stack** | React, Node.js, Express, MongoDB, GitHub REST API |
 | **Core Feature** | Dimension-wise scoring engine with explainable breakdowns |
 | **Status** | Actively developed — MVP live with real GitHub data |
-| **Repository** | [GitHub](https://github.com/rakeshkumar0804) |
+| **Repository** | [GitHub](https://github.com/rakeshkumar0804/dev-portfolio-checker) |
 
 Built end-to-end: GitHub data ingestion, scoring logic, and a report UI — with ongoing work on score history tracking, repo drill-down, and PDF export.
 
@@ -97,7 +97,7 @@ A full-stack task management application supporting task creation, assignment, a
 |---|---|
 | **Stack** | MongoDB, Express.js, React, Node.js |
 | **Core Feature** | Task lifecycle management with user-based access |
-| **Repository** | [GitHub](https://github.com/rakeshkumar0804) |
+| **Repository** | [GitHub](https://github.com/rakeshkumar0804/taskflow) |
 
 </details>
 
@@ -111,7 +111,7 @@ A role-based leave management system for organizations to handle employee leave 
 |---|---|
 | **Stack** | MongoDB, Express.js, React, Node.js, JWT Auth |
 | **Core Feature** | Role-based leave request & approval workflow |
-| **Repository** | [GitHub](https://github.com/rakeshkumar0804) |
+| **Repository** | [GitHub](https://github.com/rakeshkumar0804/leaveflow-hr) |
 
 </details>
 
