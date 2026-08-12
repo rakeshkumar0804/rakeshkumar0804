@@ -51,11 +51,11 @@ I recently completed an internship at **Codetech IT Solutions**, where I built a
 **Cloud, DevOps & Tooling**
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman) ![Vercel](https://skillicons.dev/icons?i=vercel)
 
-**Also Working With**
-![JWT](https://img.shields.io/badge/JWT%20Authentication-6D28D9?style=flat-square) ![RBAC](https://img.shields.io/badge/RBAC-6D28D9?style=flat-square) ![bcrypt](https://img.shields.io/badge/bcrypt-6D28D9?style=flat-square) ![REST API](https://img.shields.io/badge/REST%20API%20Design-6D28D9?style=flat-square) ![React Router](https://img.shields.io/badge/React%20Router-4C1D95?style=flat-square) ![Axios](https://img.shields.io/badge/Axios-4C1D95?style=flat-square) ![Mongoose](https://img.shields.io/badge/Mongoose-4C1D95?style=flat-square) ![Responsive UI](https://img.shields.io/badge/Responsive%20UI-4C1D95?style=flat-square)
+<br/>
 
-**Core CS Fundamentals**
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-7C3AED?style=flat-square) ![DBMS](https://img.shields.io/badge/DBMS-7C3AED?style=flat-square) ![OS](https://img.shields.io/badge/Operating%20Systems-7C3AED?style=flat-square) ![CN](https://img.shields.io/badge/Computer%20Networks-7C3AED?style=flat-square) ![OOP](https://img.shields.io/badge/OOP-7C3AED?style=flat-square)
+**Also working with:** JWT Authentication · RBAC · bcrypt · REST API Design · React Router · Axios · Mongoose · Responsive UI
+
+**Core CS:** Data Structures & Algorithms · DBMS · Operating Systems · Computer Networks · OOP
 
 ---
 
