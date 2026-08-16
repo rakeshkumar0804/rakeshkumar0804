@@ -80,7 +80,7 @@ A MERN-based tool that analyzes any public GitHub profile and generates a scored
 |---|---|
 | **Stack** | React, Node.js, Express, MongoDB, GitHub REST API |
 | **Core Feature** | Dimension-wise scoring engine with explainable breakdowns |
-| **Status** | Actively developed — MVP live with real GitHub data |
+| **Status** | Shipped — live with real GitHub data |
 | **Repository** | [GitHub](https://github.com/rakeshkumar0804/dev-portfolio-checker) |
 
 Built end-to-end: GitHub data ingestion, scoring logic, and a report UI — with ongoing work on score history tracking, repo drill-down, and PDF export.
@@ -205,6 +205,7 @@ Built an **Internal Employee Management System** for internal organizational use
 
 </div>
 
+> _Requires the [snake generator GitHub Action](https://github.com/Platane/snk) set up in a repo named `rakeshkumar0804/rakeshkumar0804`._
 
 ---
 
@@ -215,9 +216,9 @@ Learning:
   - Advanced backend architecture & system design fundamentals
   - Deeper testing & deployment practices for MERN apps
 Building:
-  - Developer Portfolio Health Checker (final polish — PDF export, score history)
-Exploring:
-  - IncidentHub AI (real-time incident management, Socket.io, RBAC)
+  - IncidentHub AI (real-time incident management, Socket.io, RBAC — final polish)
+Shipped:
+  - Developer Portfolio Health Checker
 Open To:
   - Full Stack / Backend Developer roles (Fresher, Delhi NCR & Remote)
 ```
