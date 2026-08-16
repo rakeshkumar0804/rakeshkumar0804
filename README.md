@@ -206,7 +206,6 @@ Built an **Internal Employee Management System** for internal organizational use
 </div>
 
 
-
 ---
 
 ### 🟣 Current Focus
@@ -216,9 +215,9 @@ Learning:
   - Advanced backend architecture & system design fundamentals
   - Deeper testing & deployment practices for MERN apps
 Building:
-  - Developer Portfolio Health Checker (scoring engine, PDF export, history tracking)
+  - Developer Portfolio Health Checker (final polish — PDF export, score history)
 Exploring:
-  - AI-assisted developer tooling
+  - IncidentHub AI (real-time incident management, Socket.io, RBAC)
 Open To:
   - Full Stack / Backend Developer roles (Fresher, Delhi NCR & Remote)
 ```
