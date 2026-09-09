@@ -191,7 +191,7 @@ Built an **Internal Employee Management System** for internal organizational use
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rakeshkumar0804&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9A9FF" width="95%"/>
+<img src="https://github-readme-activity-graph-phi-ecru.vercel.app/graph?username=rakeshkumar0804&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9A9FF" width="95%"/>
 
 </div>
 
