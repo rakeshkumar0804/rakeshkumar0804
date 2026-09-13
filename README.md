@@ -53,6 +53,76 @@ I recently completed an internship at **Codetech IT Solutions**, where I built a
 
 ### 🟣 Featured Projects
 
+<details open>
+<summary><b>🔍 TRACE — Temporal Root-cause Analysis & Causal Engine</b></summary>
+<br/>
+
+A production incident investigation engine that combines deterministic hypothesis scoring with LLM-assisted reasoning to find root causes faster and more reliably than a naive LLM approach.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | Python, FastAPI, PostgreSQL (pgvector), Gemini API, Next.js |
+| **Core Feature** | Deterministic hypothesis scoring outside the LLM + code-enforced evidence-citation grounding |
+| **Benchmark** | 89.5% root-cause accuracy vs. 73.7% naive LLM baseline across 19 hidden-ground-truth incidents |
+| **Status** | Deployed — flagship project |
+| **Repository** | [GitHub](https://github.com/rakeshkumar0804/trace-rca-engine) |
+| **Live Demo** | [trace-rca-engine.vercel.app](https://trace-rca-engine.vercel.app/) |
+
+Built to show that LLMs are more trustworthy for high-stakes reasoning when wrapped in deterministic scoring and enforced citation grounding, rather than trusted to reason freely.
+
+</details>
+
+<details open>
+<summary><b>📅 CHRONOS — Constraint-Based Timetable Scheduling Engine</b></summary>
+<br/>
+
+A scheduling engine built around a hand-written Constraint Satisfaction Problem (CSP) solver, with natural-language input parsing and an animated visualization of the solver at work.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | React, TypeScript, Vite, Node.js, Express, PostgreSQL (Prisma), Gemini API (NL parsing), D3.js, GSAP |
+| **Core Feature** | Hand-written CSP backtracking solver using MRV, LCV, and forward-checking |
+| **Signature Demo** | 2,328 backtracks (naive) vs. 46 nodes (MRV + LCV) on the same constraint set |
+| **Status** | Deployed — flagship project |
+| **Repository** | [GitHub](https://github.com/rakeshkumar0804/chronos) |
+| **Live Demo** | [chronos-web-kappa.vercel.app](https://chronos-web-kappa.vercel.app/) |
+
+Built to demonstrate classical CS algorithms (CSP solving) applied to a real scheduling problem, with the optimization gap visualized live rather than just claimed.
+
+</details>
+
+<details>
+<summary><b>🤝 SyncPad — Real-Time Collaborative Code Editor</b></summary>
+<br/>
+
+A multi-language collaborative code editor with real-time sync and in-browser sandboxed code execution — no backend execution server required.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | Monaco Editor, Yjs (CRDT), y-websocket, Web Workers, Pyodide (WASM) |
+| **Core Feature** | Real-time multi-user editing (CRDT-based) + sandboxed execution for JS/TS (Web Workers), Python (Pyodide/WASM), and HTML/CSS (sandboxed iframe) |
+| **Status** | Deployed — y-websocket server on Render, client on Vercel |
+| **Repository** | [GitHub](https://github.com/rakeshkumar0804/SyncPad) |
+| **Live Demo** | [sync-pad-client.vercel.app](https://sync-pad-client.vercel.app/) |
+
+</details>
+
+<details>
+<summary><b>🚨 IncidentHub AI — Engineering Incident Intelligence Platform</b></summary>
+<br/>
+
+A platform that correlates signals from GitHub and Sentry to generate AI-assisted incident postmortems, built with production-grade auth and multi-tenancy rather than a single-user demo shortcut.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | Node.js, WebSockets, Redis, PostgreSQL, real OAuth |
+| **Core Feature** | Multi-tenant RBAC, Redis-backed concurrency control, real-time correlation of GitHub/Sentry signals for AI-assisted postmortems |
+| **Status** | Completed — demo-seeded with an "Acme Engineering" org |
+| **Repository** | [GitHub](https://github.com/rakeshkumar0804/incidenthub-ai) |
+| **Live Demo** | [incidenthub-ai-web.vercel.app](https://incidenthub-ai-web.vercel.app/) |
+
+</details>
+
 <details>
 <summary><b>🏏 Kohli Analytics — Cricket Data Visualization</b></summary>
 <br/>
