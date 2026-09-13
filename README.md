@@ -53,7 +53,7 @@ I recently completed an internship at **Codetech IT Solutions**, where I built a
 
 ### 🟣 Featured Projects
 
-<details open>
+<details >
 <summary><b>🔍 TRACE — Temporal Root-cause Analysis & Causal Engine</b></summary>
 <br/>
 
@@ -72,7 +72,7 @@ Built to show that LLMs are more trustworthy for high-stakes reasoning when wrap
 
 </details>
 
-<details open>
+<details >
 <summary><b>📅 CHRONOS — Constraint-Based Timetable Scheduling Engine</b></summary>
 <br/>
 
