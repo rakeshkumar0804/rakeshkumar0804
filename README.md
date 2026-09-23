@@ -286,7 +286,6 @@ Open To:
 </div>
 
 ---
-☕ Running on caffeine and commits
 ### ☕ Coffee & Code
 
 <div align="center">
@@ -297,6 +296,7 @@ Open To:
 
 </div>
 
+---
 <div align="center">
 
 _"Code is the closest thing we have to magic — write it with intent."_
