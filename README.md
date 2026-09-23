@@ -298,7 +298,10 @@ Wanna collaborate? Bring coffee, I'll bring the code. ☕
 ---
 <div align="center">
 
-_"Code is the closest thing we have to magic — write it with intent."_
+---
+
+_
+"Code is the closest thing we have to magic — write it with intent."_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer" width="100%"/>
 
