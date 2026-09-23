@@ -292,8 +292,7 @@ Open To:
 
 Wanna collaborate? Bring coffee, I'll bring the code. ☕
 
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Coffee" style="height: 50px !important;width: 180px !important;" />
-
+<img src="https://img.shields.io/badge/Let's_Build_Together-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
 </div>
 
 ---
