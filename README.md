@@ -293,11 +293,9 @@ Open To:
 
 ☕ Running on caffeine and commits
 
-<img src="https://img.shields.io/badge/Fueled_by-Coffee%20☕-FFDD00?style=for-the-badge" />
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Coffee" style="height: 50px !important;width: 180px !important;" />
 
 </div>
-
----
 
 <div align="center">
 
