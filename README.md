@@ -292,8 +292,9 @@ Open To:
 
 Wanna collaborate? Bring coffee, I'll bring the code. ☕
 
-<img src="https://img.shields.io/badge/☕_Let's_Talk-FFDD00?style=for-the-badge" />
-
+<a href="https://www.buymeacoffee.com/rakeshkumar0804" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;" />
+</a>v
 </div>
 
 ---
