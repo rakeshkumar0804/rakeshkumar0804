@@ -295,13 +295,13 @@ Wanna collaborate? Bring coffee, I'll bring the code. ☕
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;" />
 
 </div>
----
+
 <div align="center">
 
 ---
 
-_
-"Code is the closest thing we have to magic — write it with intent."_
+
+"Code is the closest thing we have to magic — write it with intent."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer" width="100%"/>
 
