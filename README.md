@@ -156,16 +156,6 @@ Built a role-aware **Employee Management System** that replaced spreadsheet-base
 
 ### 🟣 Certifications
 
-![SQL Advanced](https://img.shields.io/badge/HackerRank-SQL%20(Advanced)-6D28D9?style=flat-square&logo=hackerrank&logoColor=white)
-![IoT Elite](https://img.shields.io/badge/NPTEL-IoT%20(Elite%2C%20IIT%20Kharagpur)-4C1D95?style=flat-square&logo=googlescholar&logoColor=white)
-![CPA C++](https://img.shields.io/badge/OpenEDG%2FCisco-Programming%20Essentials%20in%20C%2B%2B-7C3AED?style=flat-square&logo=cplusplus&logoColor=white)
-
-</div>
-
----
-
-### 🟣 Certifications
-
 **HackerRank**
 ![SQL Advanced](https://img.shields.io/badge/HackerRank-SQL%20(Advanced)-6D28D9?style=flat-square&logo=hackerrank&logoColor=white)
 
