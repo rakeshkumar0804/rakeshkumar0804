@@ -40,7 +40,10 @@ I'm a **Software Developer** specializing in **Full-Stack & Backend Systems**, a
 
 <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,react,nextjs,d3,nodejs,express,fastapi,tailwind,postgres,mongodb,mysql,prisma,git,github,docker,postman,vercel,wasm" />
 
+<p><i>Also: Gemini API · Yjs (CRDT) · Web Workers · REST APIs · WebSockets · JWT · Vector Search · Pytest</i></p>
+
 </div>
+
 ---
 
 ### 🟣 Featured Projects
