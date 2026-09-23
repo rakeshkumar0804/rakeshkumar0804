@@ -32,6 +32,7 @@
 I'm a **Software Developer** specializing in **Full-Stack & Backend Systems**, and a recent **B.Tech CSE graduate from Parul University, Vadodara, Gujarat (May 2026)**. Originally from Gurugram, Haryana, I currently reside there. I focus on building production-grade systems — from deterministic AI-assisted engines to real-time collaborative tools — with an emphasis on clean architecture, correctness under load, and shipping things that actually work end-to-end rather than just tutorial clones.
 
 **💼 Open To:** Software Developer • Full Stack Developer • Backend Developer (Node.js/FastAPI) roles (Fresher, Delhi NCR / Remote)
+
 ---
 
 ### 🟣 Tech Stack
@@ -40,7 +41,16 @@ I'm a **Software Developer** specializing in **Full-Stack & Backend Systems**, a
 
 <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,react,nextjs,d3,nodejs,express,fastapi,tailwind,postgres,mongodb,mysql,prisma,git,github,docker,postman,vercel,wasm" />
 
-<p><i>Also: Gemini API · Yjs (CRDT) · Web Workers · REST APIs · WebSockets · JWT · Vector Search · Pytest</i></p>
+<br/><br/>
+
+![Gemini API](https://img.shields.io/badge/Gemini_API-4C1D95?style=flat-square&logo=googlegemini&logoColor=white)
+![Yjs](https://img.shields.io/badge/Yjs_(CRDT)-6D28D9?style=flat-square)
+![Web Workers](https://img.shields.io/badge/Web_Workers-7C3AED?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-4C1D95?style=flat-square)
+![WebSockets](https://img.shields.io/badge/WebSockets-6D28D9?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-7C3AED?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector_Search-4C1D95?style=flat-square)
+![Pytest](https://img.shields.io/badge/Pytest-6D28D9?style=flat-square&logo=pytest&logoColor=white)
 
 </div>
 
