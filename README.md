@@ -286,6 +286,18 @@ Open To:
 </div>
 
 ---
+☕ Running on caffeine and commits
+### ☕ Coffee & Code
+
+<div align="center">
+
+☕ Running on caffeine and commits
+
+<img src="https://img.shields.io/badge/Fueled_by-Coffee%20☕-FFDD00?style=for-the-badge" />
+
+</div>
+
+---
 
 <div align="center">
 
