@@ -292,7 +292,8 @@ Open To:
 
 Wanna collaborate? Bring coffee, I'll bring the code. ☕
 
-<img src="https://img.shields.io/badge/Let's_Build_Together-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+<img src="https://img.shields.io/badge/☕_Let's_Talk-FFDD00?style=for-the-badge" />
+
 </div>
 
 ---
