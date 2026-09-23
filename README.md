@@ -29,25 +29,28 @@
 
 ### 🟣 About Me
 
-I'm a **Full Stack (MERN) Developer** and a recent **B.Tech CSE graduate (Parul University, May 2026)**, based in Gurugram, India. I focus on building production-style web applications — from role-based internal systems to developer-tooling products — with an emphasis on clean architecture, authentication/authorization correctness, and shipping things that actually work end-to-end rather than just tutorial clones.
+I'm a **Software Developer** specializing in **Full-Stack & Backend Systems**, and a recent **B.Tech CSE graduate (Parul University, May 2026)**, based in Gurugram, India. I focus on building production-grade systems — from deterministic AI-assisted engines to real-time collaborative tools — with an emphasis on clean architecture, correctness under load, and shipping things that actually work end-to-end rather than just tutorial clones.
 
-I recently completed an internship at **Codetech IT Solutions**, where I built an **Internal Employee Management System** using Node.js, Express.js, MongoDB, JWT-based auth, and Role-Based Access Control (RBAC).
+I recently completed a **Software Development Internship at Codetech IT Solutions**, where I built a role-aware Employee Management System with secured CRUD REST APIs, JWT authentication, and RBAC middleware.
 
-**💼 Open To:** Full Stack Developer • Backend Developer (Node.js/Express) • MERN Developer roles (Fresher, Delhi NCR / Remote)
-
+**💼 Open To:** Software Developer • Full Stack Developer • Backend Developer (Node.js/FastAPI) roles (Fresher, Delhi NCR / Remote)
 ---
 
 ### 🟣 Tech Stack
 
-**Languages:** JavaScript (ES6+) · C++ · Python · HTML5 · CSS3
+**Languages:** JavaScript · TypeScript · Python · C++ · SQL
 
-**Frontend:** React.js (Hooks, Component Architecture) · React Router · Axios · Redux · Tailwind CSS · Bootstrap · Responsive UI
+**Frontend:** React.js · Next.js · D3.js · Tailwind CSS · HTML5 · CSS3
 
-**Backend & Databases:** Node.js · Express.js · REST API Design · JWT Authentication · RBAC · bcrypt · MongoDB · Mongoose · MySQL
+**Backend & APIs:** Node.js · Express.js · FastAPI · REST APIs · WebSockets · JWT
 
-**Cloud, DevOps & Tooling:** Git · GitHub · VS Code · Postman · Vercel · Render · npm
+**Databases & ORM:** PostgreSQL · MongoDB · MySQL · Prisma
 
-**Core CS:** Data Structures & Algorithms · DBMS · Operating Systems · Computer Networks · OOP
+**AI/LLM:** Gemini API · Vector Search
+
+**Systems:** Yjs (CRDT) · WebAssembly · Web Workers
+
+**DevTools:** Git · GitHub · Docker · Postman · Pytest · Vercel · Render
 
 ---
 
@@ -127,17 +130,16 @@ A platform that correlates signals from GitHub and Sentry to generate AI-assiste
 
 ### 🟣 Experience
 
-**Web Development Intern** · Codetech IT Solutions
+**Software Development Intern** · Codetech IT Solutions
 `Jan 2026 – Apr 2026`
 
-Built an **Internal Employee Management System** for internal organizational use.
+Built a role-aware **Employee Management System** that replaced spreadsheet-based tracking, supporting employee, manager, and admin workflows.
 
-- Designed and implemented JWT-based authentication and Role-Based Access Control (RBAC)
-- Built RESTful APIs using Node.js and Express.js
-- Modeled and managed application data using MongoDB
-- Collaborated on end-to-end feature delivery from schema design to API integration
+- Secured CRUD REST APIs for employee, department, and role modules with JWT authentication, RBAC middleware, and request validation
+- Used Postman to test operations and validate API responses
+- Collaborated with senior developers in code reviews and daily stand-ups, incorporating feedback to improve code quality and API consistency
 
-`Node.js` `Express.js` `MongoDB` `JWT` `RBAC`
+`Node.js` `Express.js` `MongoDB` `JWT` `REST APIs` `Git` `Postman`
 
 ---
 
@@ -147,8 +149,18 @@ Built an **Internal Employee Management System** for internal organizational use
 
 | 🏆 Recognition | Details |
 |---|---|
-| AMENTIS Innovation Hackathon | Participant — GTBIT, 2025 |
-| CodeKshetra Hackathon | Participant — GD Goenka University, 2024 |
+| AMENTIS Hackathon | IEEE GTBIT — Apr 2025 |
+| CodeKshetra Coding Contest | GeeksforGeeks (GD Goenka) — Apr 2026 |
+
+</div>
+
+---
+
+### 🟣 Certifications
+
+![SQL Advanced](https://img.shields.io/badge/HackerRank-SQL%20(Advanced)-6D28D9?style=flat-square&logo=hackerrank&logoColor=white)
+![IoT Elite](https://img.shields.io/badge/NPTEL-IoT%20(Elite%2C%20IIT%20Kharagpur)-4C1D95?style=flat-square&logo=googlescholar&logoColor=white)
+![CPA C++](https://img.shields.io/badge/OpenEDG%2FCisco-Programming%20Essentials%20in%20C%2B%2B-7C3AED?style=flat-square&logo=cplusplus&logoColor=white)
 
 </div>
 
@@ -221,14 +233,17 @@ Built an **Internal Employee Management System** for internal organizational use
 
 ```yaml
 Learning:
-  - Advanced backend architecture & system design fundamentals
-  - Deeper testing & deployment practices for MERN apps
+  - Distributed systems & scalable backend architecture
+  - Advanced testing practices (Pytest) for production-grade systems
 Building:
-  - IncidentHub AI (real-time incident management, Socket.io, RBAC — final polish)
+  - Expanding TRACE with multi-incident correlation
 Shipped:
-  - Developer Portfolio Health Checker
+  - TRACE — Root-cause analysis engine
+  - CHRONOS — Constraint-based scheduling engine
+  - SyncPad — Real-time collaborative code editor
+  - IncidentHub AI — Engineering incident intelligence platform
 Open To:
-  - Full Stack / Backend Developer roles (Fresher, Delhi NCR & Remote)
+  - Software Developer / Full Stack / Backend roles (Fresher, Delhi NCR & Remote)
 ```
 
 ---
