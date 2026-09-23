@@ -290,7 +290,7 @@ Open To:
 
 <div align="center">
 
-☕ Running on caffeine and commits
+Wanna collaborate? Bring coffee, I'll bring the code. ☕
 
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Coffee" style="height: 50px !important;width: 180px !important;" />
 
