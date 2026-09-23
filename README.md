@@ -36,20 +36,11 @@ I'm a **Software Developer** specializing in **Full-Stack & Backend Systems**, a
 
 ### 🟣 Tech Stack
 
-**Languages:** JavaScript · TypeScript · Python · C++ · SQL
+<div align="center">
 
-**Frontend:** React.js · Next.js · D3.js · Tailwind CSS · HTML5 · CSS3
+<img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,react,nextjs,d3,nodejs,express,fastapi,tailwind,postgres,mongodb,mysql,prisma,git,github,docker,postman,vercel,wasm" />
 
-**Backend & APIs:** Node.js · Express.js · FastAPI · REST APIs · WebSockets · JWT
-
-**Databases & ORM:** PostgreSQL · MongoDB · MySQL · Prisma
-
-**AI/LLM:** Gemini API · Vector Search
-
-**Systems:** Yjs (CRDT) · WebAssembly · Web Workers
-
-**DevTools:** Git · GitHub · Docker · Postman · Pytest · Vercel · Render
-
+</div>
 ---
 
 ### 🟣 Featured Projects
