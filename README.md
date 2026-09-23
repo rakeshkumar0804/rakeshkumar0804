@@ -31,8 +31,6 @@
 
 I'm a **Software Developer** specializing in **Full-Stack & Backend Systems**, and a recent **B.Tech CSE graduate from Parul University, Vadodara, Gujarat (May 2026)**. Originally from Gurugram, Haryana, I currently reside there. I focus on building production-grade systems — from deterministic AI-assisted engines to real-time collaborative tools — with an emphasis on clean architecture, correctness under load, and shipping things that actually work end-to-end rather than just tutorial clones.
 
-I recently completed a **Software Development Internship at Codetech IT Solutions**, where I built a role-aware Employee Management System with secured CRUD REST APIs, JWT authentication, and RBAC middleware.
-
 **💼 Open To:** Software Developer • Full Stack Developer • Backend Developer (Node.js/FastAPI) roles (Fresher, Delhi NCR / Remote)
 ---
 
